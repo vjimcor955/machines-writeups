@@ -1,4 +1,6 @@
-# Escaneo de puertos
+# 28 - Daily Bugle
+
+## Escaneo de puertos
 
 - Escaneo simple
 
@@ -16,7 +18,7 @@ sudo nmap 10.10.104.39 -A -T4 -p 22 80 3306
 
 ![50ffa77e012d4099a62dac0135ac2418-copia.png](../_resources/50ffa77e012d4099a62dac0135ac2418-copia.png)
 
-# Web
+## Web
 
 Al usar el addon Wappalyzer se puede ver que el gestor de contenidos de la pagina es Joomla:
 

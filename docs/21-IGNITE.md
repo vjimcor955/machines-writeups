@@ -1,4 +1,6 @@
-# Objetivo
+# 21 - Ignite
+
+## Objetivo
 
 https://tryhackme.com/r/room/ignite
 
@@ -9,7 +11,7 @@ IP: 10.10.172.69
 
 ---
 
-# Procesos
+## Procesos
 
 - ## Escanear puertos
 

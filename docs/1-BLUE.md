@@ -16,7 +16,7 @@
 
 ![109c21de116514491364ae58c92febbc.png](../_resources/109c21de116514491364ae58c92febbc.png)
 
-2. Escanear los puertos encontrados con un escaneo mas agresivo 
+2. Escanear los puertos encontrados con un escaneo mas agresivo
 
 ![06c43778ae76ebd794ff6f1173ff4285.png](../_resources/06c43778ae76ebd794ff6f1173ff4285.png)
 
@@ -62,7 +62,7 @@ Para escalar privilegios mejorar la shell a una de meterpreter.
 
 ![960681b580bfee89c31ef4ed459c3056.png](../_resources/960681b580bfee89c31ef4ed459c3056.png)
 
-Esto crea una nueva sesión con la shell de meterpreter. 
+Esto crea una nueva sesión con la shell de meterpreter.
 
 3. Mirar proceso para escalar privilegios
 
@@ -80,7 +80,7 @@ Obtener la contraseña del usuario no predeterminado y romperla
 
 ## Proceso
 
-1. Ver los hashes de las contraseñas del sistema 
+1. Ver los hashes de las contraseñas del sistema
 
 ![b70559272cc63501898627f5cb730e8c.png](../_resources/b70559272cc63501898627f5cb730e8c.png)
 

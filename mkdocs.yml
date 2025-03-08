@@ -1,0 +1,57 @@
+site_name: vjimcor955 writeups
+site_url: https://vjimcor955.github.io/writeups/
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+      primary: amber
+      accent: blue
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+      primary: amber
+      accent: blue
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: simple/valorant
+  features:
+    - navigation.footer
+  language: es
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+extra:
+  social:
+    # - icon: simple/linkedin
+    #   link:
+    - icon: simple/github
+      link: https://github.com/vjimcor955
+
+copyright: Copyright &copy; 2025 Víctor Jiménez

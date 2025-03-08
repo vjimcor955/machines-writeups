@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Machines Writeups
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+En este repositorio se guardan los write-ups redactados de máquinas y desafíos de TryHackMe. El objetivo es documentar el proceso de resolución de cada reto, proporcionando análisis paso a paso, técnicas utilizadas y aprendizajes clave.
 
-## Commands
+## Maquinas
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [1. Blue](1-BLUE.md)
+- [21. Ignite](21-IGNITE.md)
+- [27. Pickle Rick](27-PICKLE%20RICK.md)
+- [28. Daily Bugle](28-DAILY%20BUGLE.md)

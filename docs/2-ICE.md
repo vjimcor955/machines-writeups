@@ -29,7 +29,7 @@ Investigando sobre Icecast descubrimos la siguiente [vulnerabilidad](https://www
 
 ## Explotación
 
-### Vulnerabilidad 1
+### CVE-2004-1561
 
 Explotaremos la vulnerabilidad a través de Metasploit.
 

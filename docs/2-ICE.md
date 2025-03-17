@@ -72,8 +72,6 @@ Lanzamos un segundo escaneo que nos revelara mas exploits que podremos usar para
 
 Una vez obtenida la contraseña del usuario _Dark_, podríamos acceder a ella desde un escritorio remoto.
 
-...
-
 ## Flags
 
 Sin flags
